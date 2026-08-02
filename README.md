@@ -1,8 +1,6 @@
 # 23BCNA35
 
 ![Status](https://img.shields.io/badge/Status-Project_Identifier-lightgrey?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/orange-05/23bcna35?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/orange-05/23bcna35?style=for-the-badge)
 
 > **Academic Project** -- Course/project identifier 23BCNA35 (likely BCA 3rd year Network Administration).
 
